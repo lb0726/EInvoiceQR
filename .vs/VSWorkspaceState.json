@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\文档"
+    "\\src\\MT.EInvoiceQR",
+    "\\src\\MT.EInvoiceQR.Win",
+    "\\src\\MT.EInvoiceQR.Win\\bin",
+    "\\src\\MT.EInvoiceQR.Win\\obj",
+    "\\src\\MT.EInvoiceQR\\bin",
+    "\\src\\MT.EInvoiceQR\\obj"
   ],
-  "SelectedNode": "\\文档",
   "PreviewInSolutionExplorer": false
 }
