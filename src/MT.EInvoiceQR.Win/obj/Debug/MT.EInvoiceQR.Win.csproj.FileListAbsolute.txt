@@ -1,0 +1,9 @@
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\bin\Debug\MT.EInvoiceQR.Win.exe.config
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\bin\Debug\MT.EInvoiceQR.Win.exe
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\bin\Debug\MT.EInvoiceQR.Win.pdb
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.csprojResolveAssemblyReference.cache
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.Properties.Resources.resources
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.csproj.GenerateResource.cache
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.csproj.CoreCompileInputs.cache
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.exe
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.pdb
