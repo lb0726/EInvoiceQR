@@ -7,3 +7,4 @@ E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.csproj.Gen
 E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.csproj.CoreCompileInputs.cache
 E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.exe
 E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.pdb
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR.Win\obj\Debug\MT.EInvoiceQR.Win.Form1.resources
