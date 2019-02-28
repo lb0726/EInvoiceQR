@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\MT.EInvoiceQR",
     "\\src\\MT.EInvoiceQR.Win",
-    "\\src\\MT.EInvoiceQR.Win\\bin\\Debug"
+    "\\文档"
   ],
-  "SelectedNode": "\\src\\MT.EInvoiceQR.Win",
+  "SelectedNode": "\\文档\\便捷开票二维码应用规范.doc",
   "PreviewInSolutionExplorer": false
 }
