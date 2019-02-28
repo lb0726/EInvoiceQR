@@ -1,0 +1,8 @@
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\bin\Debug\MT.EInvoiceQR.dll
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\bin\Debug\MT.EInvoiceQR.pdb
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\obj\Debug\MT.EInvoiceQR.csprojAssemblyReference.cache
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\obj\Debug\MT.EInvoiceQR.csproj.CoreCompileInputs.cache
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\obj\Debug\MT.EInvoiceQR.dll
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\obj\Debug\MT.EInvoiceQR.pdb
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\bin\Debug\ThoughtWorks.QRCode.dll
+E:\MT\MT.EInvoiceQR\src\MT.EInvoiceQR\obj\Debug\MT.EInvoiceQR.csproj.CopyComplete

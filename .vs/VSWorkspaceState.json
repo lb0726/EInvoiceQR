@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\src",
     "\\src\\MT.EInvoiceQR",
-    "\\src\\MT.EInvoiceQR.Win"
+    "\\src\\MT.EInvoiceQR.Win",
+    "\\src\\MT.EInvoiceQR.Win\\bin\\Debug"
   ],
+  "SelectedNode": "\\src\\MT.EInvoiceQR.Win",
   "PreviewInSolutionExplorer": false
 }
